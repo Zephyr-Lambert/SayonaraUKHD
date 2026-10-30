@@ -1,0 +1,4 @@
+LIBRARY d3d11
+EXPORTS
+    D3D11CreateDeviceAndSwapChain=UmiCreateSwap@48
+    D3D11CreateDevice=UmiCreateDevice@40
